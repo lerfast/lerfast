@@ -7,10 +7,10 @@
 
 
 
-- 🔭 I’m currently working on Javascript, HTML, CSS
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on Javascript, HTML, CSS.
+- 🌱 I’m currently learning Javascript with Microverse program.
 - 🌎 I’m Located in Colombia!!! 
 - 💬 Ask me about whatever you want about tech.
-- 📫 How to reach me: you can mail me at luisemiliorojas@hotmail.com or WhatsApp +573187757620
-- ⚡ Fun fact: I love memes!!!
+- 📫 How to reach me: you can mail me at luisemiliorojas@hotmail.com or WhatsApp +573187757620.
+- ⚡ Fun fact: I love memes!!! 
 
