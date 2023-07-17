@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**lerfast/lerfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there, my name is Luis Emilio!!! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./luis-logo-mod.png" alt="logo" width="70%"  height="auto" />
+ 
+</div>
+
+- 🔭 I’m currently working on Javascript, HTML, CSS
+- 🌱 I’m currently learning Javascript
+- 🌎 I’m Located in Colombia!!! 
+- 💬 Ask me about whatever you want about tech.
+- 📫 How to reach me: you can mail me at luisemiliorojas@hotmail.com or WhatsApp +573187757620
+- ⚡ Fun fact: I love memes!!!
+
