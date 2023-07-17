@@ -3,7 +3,7 @@
 ### Hi there, my name is Luis Emilio!!! 👋
 
 <div align="center">
-  <img src="./luis-logo-mod.png" alt="logo" width="70%"  height="auto" />
+  <img src="./luis-logo.png" alt="logo" width="20%"  height="auto" />
  
 </div>
 
