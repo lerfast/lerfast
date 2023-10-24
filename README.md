@@ -16,8 +16,4 @@
 - 📫 How to reach me: you can mail me at luisemiliorojas@hotmail.com or WhatsApp +573187757620.
 - ⚡ Fun fact: I love memes!!! 
 
-<div align="center">
-  <img src="./colombia-map-silhouette-with-flag-on-black-background-free-vector.jpg" alt="logo" width="20%"  height="auto" />
- 
-</div>
 
