@@ -15,5 +15,5 @@
 - 📫 How to reach me: you can mail me at luisemiliorojas@hotmail.com or WhatsApp +573187757620.
 - ⚡ Fun fact: I love memes!!! 
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerfast&show_icons=true&locale=en&layout=compact" alt="lerfast" /></p>
 <!-- - 🌱 I’m currently in Microverse Full Stack software developer program. -->
