@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on Ruby On Rials.
+- 🔭 I’m currently working in my own project based on React and Ruby On Rials.
 - 🌎 I’m Located in Colombia  !!!! 
-- 💬 Ask me about whatever you want about tech or Business.
+- 💬 Ask me about whatever you want about tech, Business or anything related to occupational health and safety.
 - 📫 How to reach me: you can mail me at luisemiliorojas@hotmail.com or WhatsApp +573187757620.
 - ⚡ Fun fact: I love memes!!! 
 
