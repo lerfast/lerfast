@@ -9,7 +9,7 @@
 ---
 
 🚀 **Introducing Chashh: Revolutionizing Workplace Safety** 🚀  
-I'm excited to share that I'm currently working on **Chashh**, an AI-powered platform in development that aims to transform how we approach safety in high-risk workplaces. Built with **React** and **Ruby on Rails**, Chashh will empower companies with predictive analytics, real-time monitoring, and seamless integration to create safer and more efficient work environments.  
+I'm excited to share that I'm currently working on [**Chashh**](https://lerfast.github.io/chashh-landing-page/), an AI-powered platform in development that aims to transform how we approach safety in high-risk workplaces. Built with **React** and **Ruby on Rails**, Chashh will empower companies with predictive analytics, real-time monitoring, and seamless integration to create safer and more efficient work environments.  
 *Stay tuned as this project continues to evolve!*
 
 ---
@@ -31,6 +31,6 @@ I'm excited to share that I'm currently working on **Chashh**, an AI-powered pla
 
 ---
 
-Stay tuned for more updates on **Chashh** as we work towards creating a safer, smarter workplace for everyone. Connect with me to follow my journey and learn more about this project.
+Stay tuned for more updates on **[Chashh](https://lerfast.github.io/chashh-landing-page/)** as we work towards creating a safer, smarter workplace for everyone. Connect with me to follow my journey and learn more about this project.
 
 #Chashh #AI #React #RubyOnRails #WorkplaceSafety #TechForGood #PredictiveAnalytics #Innovation
