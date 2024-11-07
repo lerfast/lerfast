@@ -4,7 +4,7 @@
 
 # Hi there, I'm Luis Emilio Rojas 👋
 
-[![Visitor Count](https://profile-counter.glitch.me/{lerfast}/count.svg)](https://github.com/lerfast)  
+  
 Welcome to my GitHub profile! I'm a full-stack developer based in Colombia with a passion for using technology to create meaningful impact in workplace safety.
 
 ---
@@ -71,3 +71,4 @@ I'm currently developing **Chashh**, an AI-powered platform that leverages **Rea
 Thank you for visiting! Connect with me to stay updated on **[Chashh](https://lerfast.github.io/chashh-landing-page/)** as we work towards creating safer, smarter workplaces. 
 
 #Chashh #AI #React #RubyOnRails #WorkplaceSafety #TechForGood #PredictiveAnalytics #Innovation
+[![Visitor Count](https://profile-counter.glitch.me/{lerfast}/count.svg)](https://github.com/lerfast)
