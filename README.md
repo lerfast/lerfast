@@ -49,8 +49,8 @@ I'm currently developing **Chashh**, an AI-powered platform that leverages **Rea
   **Stack:** React, Ruby on Rails, PostgreSQL  
   An AI-driven platform in development focused on improving workplace safety standards in high-risk industries.
 
-- ### [Portfolio Website](https://lerfast.github.io/)
-  **Stack:** HTML, CSS, JavaScript  
+- ### [Portfolio Website](https://lerfast.github.io/Portfolio/)
+  **Stack:** HTML, CSS, JavaScript, RubyOnRails, PostgreSQL, Spree-Commerce, Wordpress  
   My personal portfolio showcasing my work, skills, and achievements.
 
 - ### [Weather App](https://github.com/lerfast/weather-app)
