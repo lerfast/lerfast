@@ -10,7 +10,7 @@
   </p>
 
   <!-- Drone GIF (small, looping) -->
-  <img src="./Dronepilotlottie.gif" alt="Drone flying loop" height="96" />
+  <img src="./Dronepilotlottie.gif" alt="Drone flying loop" height="500" />
 
   <p>
     <a href="https://www.oshlix.com">
