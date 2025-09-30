@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ajusta el nombre del archivo si tu SVG tiene otro nombre -->
-  <img src="./oshx-lockup.svg" alt="Oshlix — Luis Emilio Rojas" width="720" />
+  <img src="./oshx_lockup.svg" alt="Oshlix — Luis Emilio Rojas" width="720" />
 
   <h1>Hi there, I'm Luis Emilio Rojas 👋</h1>
 
