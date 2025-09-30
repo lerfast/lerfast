@@ -125,8 +125,9 @@ Thanks for visiting! Follow along as we grow **[Oshlix](https://www.oshlix.com)*
 Safer. Smarter. **Oshlix**.
 
 <div align="center">
-  <a href="https://github.com/lerfast">
-    <img src="https://komarev.com/ghpvc/?username=lerfast&label=PROFILE%20VIEWS&color=0F2740&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/lerfast/lerfast">
+    <img src="https://hits.sh/github.com/lerfast/lerfast.svg?style=for-the-badge&label=VISITORS&color=0F2740&labelColor=00B4D8" alt="Visitors" />
   </a>
 </div>
+
 
