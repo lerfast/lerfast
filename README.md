@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./oshx_lockup.svg" alt="Luis Emilio Rojas Logo" width="20%" height="auto" />
+  <img src="./oshx_lockup.svg" alt="Luis Emilio Rojas Logo" width="80%" height="auto" />
 </div>
 
 # Hi there, I'm Luis Emilio Rojas 👋
