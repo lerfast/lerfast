@@ -125,7 +125,8 @@ Thanks for visiting! Follow along as we grow **[Oshlix](https://www.oshlix.com)*
 Safer. Smarter. **Oshlix**.
 
 <div align="center">
-
-[![Visitor Count](https://profile-counter.glitch.me/{lerfast}/count.svg)](https://github.com/lerfast)
-
+  <a href="https://github.com/lerfast">
+    <img src="https://komarev.com/ghpvc/?username=lerfast&label=PROFILE%20VIEWS&color=0F2740&style=for-the-badge" alt="Profile views" />
+  </a>
 </div>
+
