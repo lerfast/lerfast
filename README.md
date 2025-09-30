@@ -103,9 +103,6 @@ Beyond coding, I’m a **video editor** and **professional drone pilot**. I love
   *HTML · CSS · JavaScript · Ruby on Rails · PostgreSQL · Spree · WordPress*  
   Personal site with projects and experience.
 
-- **[Weather App](https://github.com/lerfast/weather-app)**  
-  *Node.js · Express · OpenWeather API*  
-  Real-time weather by location.
 
 ---
 
