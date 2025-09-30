@@ -1,16 +1,16 @@
 <div align="center">
   <!-- Change the filename if your lockup is named differently -->
-  <img src="./oshlix-lockup.svg" alt="Oshlix — Luis Emilio Rojas" width="720" />
+  <img src="./oshx_lockup.svg" alt="Oshlix — Luis Emilio Rojas" width="720" />
 
   <h1>Hi, I'm Luis Emilio Rojas 👋</h1>
 
   <p>
-    Full-stack Developer · Business Administrator · <b>Video Editor</b> · <b>Professional Drone Pilot</b> (UAS)<br/>
+    Full-stack Developer · Business Administrator · <b>Video Editor</b> · <b>Professional Drone Pilot</b><br/>
     Building <strong>Oshlix</strong> — AI for safer workplaces.
   </p>
 
-  <!-- Optional: show a lightweight loop (≤ 2–3MB) -->
-  <!-- <img src="./assets/drone-loop.gif" alt="Drone flying loop" height="88" /> -->
+  <!-- Drone GIF (small, looping) -->
+  <img src="./assets/Dronepilotlottie.gif" alt="Drone flying loop" height="96" />
 
   <p>
     <a href="https://www.oshlix.com">
@@ -40,7 +40,7 @@ I’m building **Oshlix**, an AI-powered platform combining real-time analytics 
 ---
 
 ## 🎬 Video & Aerial Work
-Beyond coding, I’m a **video editor** and **professional drone pilot**. I love visual storytelling, timelapses, tilt-shift looks, and cinematic aerials.
+Beyond coding, I’m a **video editor** and **professional drone pilot**. I love visual storytelling, tilt-shift looks, and cinematic aerials.
 
 - 📺 **YouTube:** [@rojastech1](https://www.youtube.com/@rojastech1) — tech, editing, drones & creative projects  
 - 🎯 **Services:** aerial cinematography, editing/post, color, titles/light animation
@@ -48,7 +48,6 @@ Beyond coding, I’m a **video editor** and **professional drone pilot**. I love
 ### ✨ Featured Video — *Neiva in Miniature (Tilt-Shift)*
 <p align="center">
   <a href="https://youtu.be/8vYlSsoheUw">
-    <!-- Clickable thumbnail (GitHub doesn’t allow iframes, so we use the video image) -->
     <img src="https://img.youtube.com/vi/8vYlSsoheUw/maxresdefault.jpg" alt="Neiva in Miniature — Tilt-Shift" width="720" />
   </a>
   <br/>
