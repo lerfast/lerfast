@@ -80,12 +80,18 @@ Beyond coding, I’m a **video editor** and **professional drone pilot**. I love
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
+**CMS & Commerce**  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![Spree Commerce](https://img.shields.io/badge/-Spree_Commerce-CC0000?logo=ruby&logoColor=white&style=for-the-badge)
+
 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
----
+**Video & Media**  
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-1F2E3A?logo=blackmagicdesign&logoColor=white&style=for-the-badge)
+
 
 ## 🌟 Projects
 
