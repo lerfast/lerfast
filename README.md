@@ -125,8 +125,11 @@ Thanks for visiting! Follow along as we grow **[Oshlix](https://www.oshlix.com)*
 Safer. Smarter. **Oshlix**.
 
 <div align="center">
-  <img src="https://visitorbadge.io/badge?page_id=lerfast.lerfast&left_text=PROFILE%20VIEWS&left_color=00B4D8&right_color=0F2740" alt="Profile views" />
+  <a href="https://github.com/lerfast/lerfast">
+    <img src="https://hits.sh/github.com/lerfast/lerfast.svg?style=for-the-badge&label=VISITORS&color=0F2740&labelColor=00B4D8" alt="Welcome Visitor" />
+  </a>
 </div>
+
 
 
 
