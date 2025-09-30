@@ -126,7 +126,7 @@ Safer. Smarter. **Oshlix**.
 
 <div align="center">
   <a href="https://github.com/lerfast/lerfast">
-    <img src="https://hits.sh/github.com/lerfast/lerfast.svg?style=for-the-badge&label=WELCOME VISITOR&color=0F2740&labelColor=00B4D8" alt="Welcome Visitor" />
+    <img src="https://hits.sh/github.com/lerfast/lerfast.svg?style=for-the-badge&label=VISITORS&color=0F2740&labelColor=00B4D8" alt="Welcome Visitor" />
   </a>
 </div>
 
