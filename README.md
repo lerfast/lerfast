@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Change the filename if your lockup is named differently -->
+  <!-- Lockup -->
   <img src="./oshx_lockup.svg" alt="Oshlix — Luis Emilio Rojas" width="720" />
 
   <h1>Hi, I'm Luis Emilio Rojas 👋</h1>
@@ -9,9 +9,17 @@
     Building <strong>Oshlix</strong> — AI for safer workplaces.
   </p>
 
-  <!-- Drone GIF (small, looping) -->
-  <img src="./Dronepilotlottie.gif" alt="Drone flying loop" width="240" />
-
+  <!-- Drone GIF (exporta el GIF grande, p. ej. 960px; aquí lo mostramos a 240px) -->
+  <img
+    src="./Dronepilotlottie.gif"
+    alt="Drone flying loop"
+    width="240"
+    height="240"
+    loading="lazy"
+    style="display:block; max-width:240px; height:auto;"
+    <!-- Si más adelante generas una versión @2x, descomenta la línea de abajo y súbela como Dronepilotlottie@2x.gif -->
+    <!-- srcset="./Dronepilotlottie@2x.gif 2x" -->
+  />
 
   <p>
     <a href="https://www.oshlix.com">
@@ -129,8 +137,3 @@ Safer. Smarter. **Oshlix**.
     <img src="https://hits.sh/github.com/lerfast/lerfast.svg?style=for-the-badge&label=VISITORS&color=0F2740&labelColor=00B4D8" alt="Welcome Visitor" />
   </a>
 </div>
-
-
-
-
-
