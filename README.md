@@ -10,16 +10,14 @@
   </p>
 
   <!-- Drone GIF (exporta el GIF grande, p. ej. 960px; aquí lo mostramos a 240px) -->
-  <img
-    src="./Dronepilotlottie.gif"
-    alt="Drone flying loop"
-    width="240"
-    height="240"
-    loading="lazy"
-    style="display:block; max-width:240px; height:auto;"
-    <!-- Si más adelante generas una versión @2x, descomenta la línea de abajo y súbela como Dronepilotlottie@2x.gif -->
-    <!-- srcset="./Dronepilotlottie@2x.gif 2x" -->
-  />
+<img
+  src="./Dronepilotlottie.gif"
+  srcset="./Dronepilotlottie@2x.gif 2x" 
+  alt="Drone flying loop"
+  width="240"
+  height="240"
+  loading="lazy"
+/>
 
   <p>
     <a href="https://www.oshlix.com">
